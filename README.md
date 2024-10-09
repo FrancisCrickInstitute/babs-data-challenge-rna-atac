@@ -27,4 +27,5 @@ The treatment here is thought to activate a transcriptional program via remodell
 2. Identify the possible transcriptional programs involved.
 3. Present candidate transcription factors that may be responsible for the underlying regulation.
 
-Please produce a 20 minute presentation detailing your exploration of the data, your analysis approach and findings?
+**Please produce a 20 minute presentation detailing your exploration of the data, your analysis approach and findings.**
+**Be prepared to discuss the rational behind your analysis approach, challenges you faced and potential future analysis direction.**
