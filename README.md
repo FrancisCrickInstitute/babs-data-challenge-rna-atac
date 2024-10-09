@@ -29,5 +29,6 @@ Suggested aims:
 2. Identify the possible transcriptional programs involved.
 3. Present candidate transcription factors that may be responsible for the underlying regulation.
 
-* **Please produce a 20 minute presentation detailing your exploration of the data, your analysis approach and findings.**
-* **Be prepared to discuss the rationale behind your analysis approach, challenges you faced and potential future analysis direction.**
+**Please produce a 20 minute presentation detailing your exploration of the data, your analysis approach and findings.**
+
+**Be prepared to discuss the rationale behind your analysis approach, challenges you faced and potential future analysis direction.**
