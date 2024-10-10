@@ -31,4 +31,4 @@ Suggested aims:
 
 **Please produce a 20 minute presentation detailing your exploration of the data, your analysis approach and findings.**
 
-**Be prepared to discuss the rationale behind your analysis approach, challenges you faced and potential future analysis direction.**
+**We recognise exposure to these types of data will be variable amongst candidates.  Greater credit will be placed on a candidate's ability to discuss the rationale behind their approach, challenges faced and potential future analysis direction than necessarily a "correct" answer.**
